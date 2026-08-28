@@ -28,28 +28,37 @@
 ## <img src="https://api.iconify.design/tabler/cpu.svg?color=%231d4ed8" width="20" align="bottom" alt="">&nbsp;Tech Stack
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="32" alt="Python">&nbsp;
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="32" alt="LangChain">&nbsp;
-  <img src="https://cdn.simpleicons.org/langgraph/000000" width="32" alt="LangGraph">&nbsp;
-  <img src="https://cdn.simpleicons.org/fastapi/009688" width="32" alt="FastAPI">&nbsp;
-  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="32" alt="Kotlin">&nbsp;
-  <img src="https://cdn.simpleicons.org/android/3DDC84" width="32" alt="Android">&nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="32" alt="TypeScript">&nbsp;
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="32" alt="React">&nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="32" alt="Node.js">&nbsp;
-  <img src="https://cdn.simpleicons.org/threedotjs/000000" width="32" alt="Three.js">&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="32" alt="Docker">&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" width="32" alt="Git">
+  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/python/3776AB" width="36" alt="Python"><br><span style="font-size:11px;color:#64748b;font-weight:600;">Python</span></span>
+  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="36" alt="LangChain"><br><span style="font-size:11px;color:#64748b;font-weight:600;">LangChain</span></span>
+  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/langgraph/000000" width="36" alt="LangGraph"><br><span style="font-size:11px;color:#64748b;font-weight:600;">LangGraph</span></span>
+  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/fastapi/009688" width="36" alt="FastAPI"><br><span style="font-size:11px;color:#64748b;font-weight:600;">FastAPI</span></span>
+  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="36" alt="Kotlin"><br><span style="font-size:11px;color:#64748b;font-weight:600;">Kotlin</span></span>
+  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/android/3DDC84" width="36" alt="Android"><br><span style="font-size:11px;color:#64748b;font-weight:600;">Android</span></span>
+  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" alt="TypeScript"><br><span style="font-size:11px;color:#64748b;font-weight:600;">TypeScript</span></span>
+  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/react/61DAFB" width="36" alt="React"><br><span style="font-size:11px;color:#64748b;font-weight:600;">React</span></span>
+  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="36" alt="Node.js"><br><span style="font-size:11px;color:#64748b;font-weight:600;">Node.js</span></span>
+  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/threedotjs/000000" width="36" alt="Three.js"><br><span style="font-size:11px;color:#64748b;font-weight:600;">Three.js</span></span>
+  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/docker/2496ED" width="36" alt="Docker"><br><span style="font-size:11px;color:#64748b;font-weight:600;">Docker</span></span>
+  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/git/F05032" width="36" alt="Git"><br><span style="font-size:11px;color:#64748b;font-weight:600;">Git</span></span>
 </p>
 
 ## <img src="https://api.iconify.design/tabler/building-bank.svg?color=%231d4ed8" width="20" align="bottom" alt="">&nbsp;Experience
 
 <div style="border:1px solid #e3eaf5;border-radius:14px;padding:18px 22px;">
-  <b style="font-size:16px;color:#0b3d91;">Full-Stack Development Intern</b>&nbsp;·&nbsp;
+  <img src="assets/tutti-mark.svg" width="30" align="top" alt="Nexight">
+  &nbsp;&nbsp;<b style="font-size:16px;color:#0b3d91;">Full-Stack Development Intern</b>&nbsp;·&nbsp;
   <a href="https://tutti.sh/en" style="color:#1d4ed8;font-weight:600;">Nexight</a>
   <span style="color:#94a3b8;font-size:13px;">(makers of <a href="https://github.com/tutti-os/tutti">Tutti</a> · <a href="https://github.com/tutti-os/tutti">GitHub</a>)</span>
   <span style="float:right;background:#eff6ff;border:1px solid #bfdbfe;color:#1e40af;border-radius:999px;padding:2px 12px;font-size:12.5px;font-weight:600;">2026.07 – Present</span>
-  <p style="color:#64748b;font-size:13.5px;margin:6px 0 0;">Building <b>Tutti</b> — the first multi-user, multi-agent real-time collaboration space. Coding agents (Claude Code, Codex, Cursor…) work together live in one shared cloud workspace, like Google Docs / Figma but for AI agents.</p>
+  <p style="color:#64748b;font-size:13.5px;margin:8px 0 0;">Building <b>Tutti</b> — the first multi-user, multi-agent real-time collaboration space. Coding agents (Claude Code, Codex, Cursor…) work together live in one shared cloud workspace, like Google Docs / Figma but for AI agents.</p>
+  <p style="color:#334155;font-size:14px;margin:8px 0 0;">
+    <img src="https://api.iconify.design/tabler/check.svg?color=%231d4ed8" width="16" align="top" alt="">&nbsp;&nbsp;Working on full-stack development of Tutti's workspace products.
+  </p>
+  <p style="margin:12px 0 0;">
+    <img src="https://img.shields.io/github/stars/tutti-os/tutti?style=flat-square&label=Repo%20Stars&color=1d4ed8" alt="stars">
+    <img src="https://img.shields.io/badge/License-Apache--2.0-1d4ed8?style=flat-square" alt="license">
+    <img src="https://img.shields.io/github/last-commit/tutti-os/tutti?style=flat-square&label=Active&color=2dd4bf" alt="active">
+  </p>
 </div>
 
 ## <img src="https://api.iconify.design/tabler/chart-bar.svg?color=%231d4ed8" width="20" align="bottom" alt="">&nbsp;GitHub Stats
