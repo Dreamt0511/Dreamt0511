@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <span style="background:#f0f6ff;border:1px solid #c5d9f5;color:#1e40af;border-radius:999px;padding:4px 14px;font-size:13px;font-weight:600;">📍 Shenzhen, China</span>&nbsp;
-  <span style="background:#f0f6ff;border:1px solid #c5d9f5;color:#1e40af;border-radius:999px;padding:4px 14px;font-size:13px;font-weight:600;">🎯 Focus · <b>AI Agent</b></span>&nbsp;
-  <span style="background:#f0f6ff;border:1px solid #c5d9f5;color:#1e40af;border-radius:999px;padding:4px 14px;font-size:13px;font-weight:600;">🎓 Class of <b>2027</b> · Open to Work</span>&nbsp;
-  <span style="background:#f0f6ff;border:1px solid #c5d9f5;color:#1e40af;border-radius:999px;padding:4px 14px;font-size:13px;font-weight:600;">🔥 <b>840+</b> Commits in 2026</span>
+  <span style="background:#f0f6ff;border:1px solid #c5d9f5;color:#1e40af;border-radius:999px;padding:4px 14px;font-size:13px;font-weight:600;"><img src="https://api.iconify.design/tabler/map-pin.svg?color=%231d4ed8" width="14" align="bottom" alt="">&nbsp;Shenzhen, China</span>&nbsp;
+  <span style="background:#f0f6ff;border:1px solid #c5d9f5;color:#1e40af;border-radius:999px;padding:4px 14px;font-size:13px;font-weight:600;"><img src="https://api.iconify.design/tabler/target.svg?color=%231d4ed8" width="14" align="bottom" alt="">&nbsp;Focus · <b>AI Agent</b></span>&nbsp;
+  <span style="background:#f0f6ff;border:1px solid #c5d9f5;color:#1e40af;border-radius:999px;padding:4px 14px;font-size:13px;font-weight:600;"><img src="https://api.iconify.design/tabler/school.svg?color=%231d4ed8" width="14" align="bottom" alt="">&nbsp;Class of <b>2027</b> · Open to Work</span>&nbsp;
+  <span style="background:#f0f6ff;border:1px solid #c5d9f5;color:#1e40af;border-radius:999px;padding:4px 14px;font-size:13px;font-weight:600;"><img src="https://api.iconify.design/tabler/flame.svg?color=%231d4ed8" width="14" align="bottom" alt="">&nbsp;<b>840+</b> Commits in 2026</span>
 </p>
 
 ---
