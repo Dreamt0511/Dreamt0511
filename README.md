@@ -27,20 +27,26 @@
 
 ## <img src="https://api.iconify.design/tabler/cpu.svg?color=%231d4ed8" width="20" align="bottom" alt="">&nbsp;Tech Stack
 
-<p align="center">
-  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/python/3776AB" width="36" alt="Python"><br><span style="font-size:11px;color:#64748b;font-weight:600;">Python</span></span>
-  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="36" alt="LangChain"><br><span style="font-size:11px;color:#64748b;font-weight:600;">LangChain</span></span>
-  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/langgraph/000000" width="36" alt="LangGraph"><br><span style="font-size:11px;color:#64748b;font-weight:600;">LangGraph</span></span>
-  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/fastapi/009688" width="36" alt="FastAPI"><br><span style="font-size:11px;color:#64748b;font-weight:600;">FastAPI</span></span>
-  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="36" alt="Kotlin"><br><span style="font-size:11px;color:#64748b;font-weight:600;">Kotlin</span></span>
-  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/android/3DDC84" width="36" alt="Android"><br><span style="font-size:11px;color:#64748b;font-weight:600;">Android</span></span>
-  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" alt="TypeScript"><br><span style="font-size:11px;color:#64748b;font-weight:600;">TypeScript</span></span>
-  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/react/61DAFB" width="36" alt="React"><br><span style="font-size:11px;color:#64748b;font-weight:600;">React</span></span>
-  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="36" alt="Node.js"><br><span style="font-size:11px;color:#64748b;font-weight:600;">Node.js</span></span>
-  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/threedotjs/000000" width="36" alt="Three.js"><br><span style="font-size:11px;color:#64748b;font-weight:600;">Three.js</span></span>
-  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/docker/2496ED" width="36" alt="Docker"><br><span style="font-size:11px;color:#64748b;font-weight:600;">Docker</span></span>
-  <span style="display:inline-block;text-align:center;margin:10px 9px;vertical-align:top;"><img src="https://cdn.simpleicons.org/git/F05032" width="36" alt="Git"><br><span style="font-size:11px;color:#64748b;font-weight:600;">Git</span></span>
-</p>
+<table align="center" cellspacing="12">
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/python/3776AB" width="36" alt="Python"><br><small style="color:#64748b;font-weight:600;">Python</small></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="36" alt="LangChain"><br><small style="color:#64748b;font-weight:600;">LangChain</small></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/langgraph/000000" width="36" alt="LangGraph"><br><small style="color:#64748b;font-weight:600;">LangGraph</small></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/fastapi/009688" width="36" alt="FastAPI"><br><small style="color:#64748b;font-weight:600;">FastAPI</small></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="36" alt="Kotlin"><br><small style="color:#64748b;font-weight:600;">Kotlin</small></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/android/3DDC84" width="36" alt="Android"><br><small style="color:#64748b;font-weight:600;">Android</small></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" alt="TypeScript"><br><small style="color:#64748b;font-weight:600;">TypeScript</small></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/react/61DAFB" width="36" alt="React"><br><small style="color:#64748b;font-weight:600;">React</small></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="36" alt="Node.js"><br><small style="color:#64748b;font-weight:600;">Node.js</small></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/threedotjs/000000" width="36" alt="Three.js"><br><small style="color:#64748b;font-weight:600;">Three.js</small></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/docker/2496ED" width="36" alt="Docker"><br><small style="color:#64748b;font-weight:600;">Docker</small></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/git/F05032" width="36" alt="Git"><br><small style="color:#64748b;font-weight:600;">Git</small></td>
+  </tr>
+</table>
 
 ## <img src="https://api.iconify.design/tabler/building-bank.svg?color=%231d4ed8" width="20" align="bottom" alt="">&nbsp;Experience
 
