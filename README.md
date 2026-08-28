@@ -41,56 +41,6 @@
   <p style="color:#64748b;font-size:13.5px;margin:6px 0 0;">Building <b>Tutti</b> — the first multi-user, multi-agent real-time collaboration space. Coding agents (Claude Code, Codex, Cursor…) work together live in one shared cloud workspace, like Google Docs / Figma but for AI agents.</p>
 </div>
 
-## 🔥 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <b style="color:#1d4ed8;">📦 <a href="https://github.com/Dreamt0511/Pocket-Agent">Pocket-Agent</a></b>
-      <p style="color:#57606a;font-size:13px;">An agent that can control your phone. Runs on Termux/Android or servers — built on LangChain + LangGraph with tool calling, sub-agent delegation, skill system, layered memory and voice.</p>
-      <span style="font-size:12px;color:#57606a;">● Python</span>
-      <img src="https://img.shields.io/github/stars/Dreamt0511/Pocket-Agent?style=social" alt="stars">
-      <img src="https://img.shields.io/github/last-commit/Dreamt0511/Pocket-Agent?style=social" alt="commit">
-    </td>
-    <td width="50%">
-      <b style="color:#1d4ed8;">🧠 <a href="https://github.com/Dreamt0511/EchoMind">EchoMind</a></b>
-      <p style="color:#57606a;font-size:13px;">A personalized RAG-powered AI assistant that remembers your conversations. Long-term memory + custom knowledge base for precise, coherent Q&amp;A.</p>
-      <span style="font-size:12px;color:#57606a;">● Python</span>
-      <img src="https://img.shields.io/github/stars/Dreamt0511/EchoMind?style=social" alt="stars">
-      <img src="https://img.shields.io/github/forks/Dreamt0511/EchoMind?style=social" alt="forks">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b style="color:#1d4ed8;">🕷️ <a href="https://github.com/Dreamt0511/SpiderClaw">SpiderClaw</a></b>
-      <p style="color:#57606a;font-size:13px;">Event-driven auto-diagnosis &amp; self-healing system, deeply integrated with Lark/Feishu — closes the loop from bug detection to automatic fix, in dev and production.</p>
-      <span style="font-size:12px;color:#57606a;">● Python</span>
-      <img src="https://img.shields.io/github/last-commit/Dreamt0511/SpiderClaw?style=social" alt="commit">
-    </td>
-    <td width="50%">
-      <b style="color:#1d4ed8;">🪐 <a href="https://github.com/Dreamt0511/solar-system-simulator">solar-system-simulator</a></b>
-      <p style="color:#57606a;font-size:13px;">A 3D solar system simulator with Three.js — real texture switching, Kepler orbits, quick planet navigation, and a hidden "Pale Blue Dot" easter egg.</p>
-      <span style="font-size:12px;color:#57606a;">● JavaScript</span>
-      <img src="https://img.shields.io/github/stars/Dreamt0511/solar-system-simulator?style=social" alt="stars">
-      <img src="https://img.shields.io/github/last-commit/Dreamt0511/solar-system-simulator?style=social" alt="commit">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b style="color:#1d4ed8;">🤖 <a href="https://github.com/Dreamt0511/Pocket-Agent-Android">Pocket-Agent-Android</a></b>
-      <p style="color:#57606a;font-size:13px;">Native Kotlin client that brings Pocket-Agent's AI agent capabilities to Android phones — your personal agent, everywhere.</p>
-      <span style="font-size:12px;color:#57606a;">● Kotlin</span>
-      <img src="https://img.shields.io/github/last-commit/Dreamt0511/Pocket-Agent-Android?style=social" alt="commit">
-    </td>
-    <td width="50%">
-      <b style="color:#1d4ed8;">⚡ <a href="https://github.com/Dreamt0511/claude-code-launcher-android">claude-code-launcher-android</a></b>
-      <p style="color:#57606a;font-size:13px;">Android launcher for Claude Code — AI pair programming in your pocket, one tap away.</p>
-      <span style="font-size:12px;color:#57606a;">● Kotlin</span>
-      <img src="https://img.shields.io/github/last-commit/Dreamt0511/claude-code-launcher-android?style=social" alt="commit">
-    </td>
-  </tr>
-</table>
-
 ## 📊 GitHub Stats
 
 <div align="center">
