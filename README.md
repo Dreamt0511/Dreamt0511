@@ -20,10 +20,10 @@
 
 ## 🧭 About Me
 
-- 🤖 I build **AI agents that actually get things done** — phone-automation agents, RAG assistants with long-term memory, and self-healing diagnosis systems.
-- 🌟 Solo-built **6+ open-source projects** spanning AI agents, RAG systems, developer tools and 3D visualization.
-- 🛰️ Interning at **Nexight**, the team behind [Tutti](https://tutti.sh/en); active in agent-ecosystem OSS.
-- 🎓 **Class of 2027**, seeking AI application / LLM engineering roles in the 2026 fall recruitment season.
+- <img src="https://api.iconify.design/tabler/robot.svg?color=%231d4ed8" width="18" align="top" alt="">&nbsp;&nbsp;I build **AI agents that actually get things done** — phone-automation agents, RAG assistants with long-term memory, and self-healing diagnosis systems.
+- <img src="https://api.iconify.design/tabler/sparkles.svg?color=%231d4ed8" width="18" align="top" alt="">&nbsp;&nbsp;Solo-built **6+ open-source projects** spanning AI agents, RAG systems, developer tools and 3D visualization.
+- <img src="https://api.iconify.design/tabler/git-fork.svg?color=%231d4ed8" width="18" align="top" alt="">&nbsp;&nbsp;Interning at **Nexight**, the team behind [Tutti](https://tutti.sh/en); active in agent-ecosystem OSS.
+- <img src="https://api.iconify.design/tabler/briefcase.svg?color=%231d4ed8" width="18" align="top" alt="">&nbsp;&nbsp;**Class of 2027**, seeking AI application / LLM engineering roles in the 2026 fall recruitment season.
 
 ## ⚙️ Tech Stack
 
