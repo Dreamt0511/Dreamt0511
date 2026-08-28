@@ -1,0 +1,149 @@
+<svg viewBox="0 0 1200 320" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="banner" style="border-radius:20px; box-shadow:0 14px 40px rgba(37,99,235,.14);">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#ffffff"/>
+        <stop offset="0.55" stop-color="#f0f6ff"/>
+        <stop offset="1" stop-color="#dcebff"/>
+      </linearGradient>
+      <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#0b3d91"/>
+        <stop offset="0.6" stop-color="#2563eb"/>
+        <stop offset="1" stop-color="#38bdf8"/>
+      </linearGradient>
+      <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#38bdf8"/>
+        <stop offset="1" stop-color="#1d4ed8"/>
+      </linearGradient>
+      <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+        <path d="M36 0H0V36" fill="none" stroke="#dbeafe" stroke-width="0.7"/>
+      </pattern>
+      <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+        <circle cx="2" cy="2" r="1.6" fill="#bfdbfe"/>
+      </pattern>
+      <filter id="blur60" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="55"/></filter>
+      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="4" result="b"/>
+        <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+      </filter>
+      <radialGradient id="coreGrad" cx="0.4" cy="0.35" r="0.8">
+        <stop offset="0" stop-color="#ffffff"/>
+        <stop offset="0.5" stop-color="#60a5fa"/>
+        <stop offset="1" stop-color="#2563eb"/>
+      </radialGradient>
+      <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#2563eb" stop-opacity="0"/>
+        <stop offset="0.5" stop-color="#7dd3fc" stop-opacity="1"/>
+        <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    <style>
+      @keyframes rise { from { transform: translateY(14px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+      @keyframes orbit {
+        0%   { transform: translate(calc(var(--r)*1), calc(var(--r)*0)); }
+        8.3% { transform: translate(calc(var(--r)*0.866), calc(var(--r)*0.5)); }
+        16.7%{ transform: translate(calc(var(--r)*0.5), calc(var(--r)*0.866)); }
+        25%  { transform: translate(calc(var(--r)*0), calc(var(--r)*1)); }
+        33.3%{ transform: translate(calc(var(--r)*-0.5), calc(var(--r)*0.866)); }
+        41.7%{ transform: translate(calc(var(--r)*-0.866), calc(var(--r)*0.5)); }
+        50%  { transform: translate(calc(var(--r)*-1), calc(var(--r)*0)); }
+        58.3%{ transform: translate(calc(var(--r)*-0.866), calc(var(--r)*-0.5)); }
+        66.7%{ transform: translate(calc(var(--r)*-0.5), calc(var(--r)*-0.866)); }
+        75%  { transform: translate(calc(var(--r)*0), calc(var(--r)*-1)); }
+        83.3%{ transform: translate(calc(var(--r)*0.5), calc(var(--r)*-0.866)); }
+        91.7%{ transform: translate(calc(var(--r)*0.866), calc(var(--r)*-0.5)); }
+        100% { transform: translate(calc(var(--r)*1), calc(var(--r)*0)); }
+      }
+      .rise { animation: rise .6s cubic-bezier(.22,1,.36,1) both; }
+      .orb { animation: orbit 10s linear backwards infinite; }
+      .o-5 { --r: 31px; animation-duration: 5s; animation-delay: 0s; }
+      .o-7 { --r: 43px; animation-duration: 7s; animation-delay: -.875s; }
+      .o-9 { --r: 55px; animation-duration: 9s; animation-delay: -2.25s; }
+      .o-11 { --r: 67px; animation-duration: 11s; animation-delay: -4.125s; }
+      .o-14 { --r: 80px; animation-duration: 14s; animation-delay: -7s; }
+      .o-17 { --r: 92px; animation-duration: 17s; animation-delay: -10.625s; }
+      .o-21 { --r: 104px; animation-duration: 21s; animation-delay: -15.75s; }
+      .o-25 { --r: 116px; animation-duration: 25s; animation-delay: -21.875s; }
+    </style>
+
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <!-- 左侧渐变光晕（极淡） -->
+    <ellipse cx="180" cy="150" rx="260" ry="160" fill="#bfdbfe" opacity="0.4" filter="url(#blur60)"/>
+
+    <!-- ══ 右侧：迷你太阳系（8 大行星，呼应 solar-system-simulator） ══ -->
+    <g>
+      <rect x="720" y="36" width="432" height="248" rx="24" fill="#ffffff" opacity="0.55"/>
+      <rect x="720" y="36" width="432" height="248" rx="24" fill="none" stroke="#ffffff" stroke-width="1.6"/>
+      <rect x="720" y="36" width="432" height="248" rx="24" fill="none" stroke="#bfdbfe" stroke-width="0.8"/>
+    </g>
+    <g transform="translate(940,162)">
+      <!-- 8 条轨道 -->
+      <circle r="31" fill="none" stroke="#bfdbfe" stroke-width="0.6" opacity="0.7"/>
+      <circle r="43" fill="none" stroke="#bfdbfe" stroke-width="0.6" opacity="0.66"/>
+      <circle r="55" fill="none" stroke="#bfdbfe" stroke-width="0.6" opacity="0.62"/>
+      <circle r="67" fill="none" stroke="#bfdbfe" stroke-width="0.6" opacity="0.58"/>
+      <circle r="80" fill="none" stroke="#bfdbfe" stroke-width="0.6" opacity="0.54"/>
+      <circle r="92" fill="none" stroke="#bfdbfe" stroke-width="0.6" opacity="0.5"/>
+      <circle r="104" fill="none" stroke="#bfdbfe" stroke-width="0.6" opacity="0.46"/>
+      <circle r="116" fill="none" stroke="#bfdbfe" stroke-width="0.6" opacity="0.42"/>
+      <!-- 太阳 -->
+      <circle r="16" fill="url(#coreGrad)" filter="url(#glow)"/>
+      <circle r="5.2" fill="#ffffff" opacity="0.95"/>
+      <!-- 水星 Mercury -->
+      <circle class="orb o-5" r="2.8" fill="#9ec2f7"/>
+      <!-- 金星 Venus -->
+      <circle class="orb o-7" r="3.3" fill="#86b3f3"/>
+      <!-- 地球 Earth -->
+      <circle class="orb o-9" r="3.6" fill="#6ea3ee"/>
+      <!-- 火星 Mars -->
+      <circle class="orb o-11" r="3.1" fill="#5694ea"/>
+      <!-- 木星 Jupiter -->
+      <circle class="orb o-14" r="5.5" fill="#3e84e6"/>
+      <!-- 土星 Saturn（带环） -->
+      <g class="orb o-17">
+        <ellipse rx="9.2" ry="3.5" fill="none" stroke="#60a5fa" stroke-width="1.2" transform="rotate(-22)"/>
+        <circle r="5" fill="#2563eb"/>
+      </g>
+      <!-- 天王星 Uranus -->
+      <circle class="orb o-21" r="4.2" fill="#1e50d8"/>
+      <!-- 海王星 Neptune -->
+      <circle class="orb o-25" r="4.2" fill="#1e40af"/>
+    </g>
+
+    <!-- ══ 左侧：名字加载动画（名字始终可见，仅上浮入场） ══ -->
+    <g font-family="Segoe UI, Helvetica, sans-serif">
+      <text class="rise" style="animation-delay:.05s" x="64" y="98" font-size="16" fill="#2563eb" letter-spacing="6" font-weight="600">AI AGENT ENGINEER · OPEN SOURCE</text>
+
+      <g class="rise" style="animation-delay:.15s"><text x="56" y="172" font-size="72" font-weight="700" fill="url(#txt)" filter="url(#glow)">D</text></g>
+      <g class="rise" style="animation-delay:.25s"><text x="113" y="172" font-size="72" font-weight="700" fill="url(#txt)" filter="url(#glow)">R</text></g>
+      <g class="rise" style="animation-delay:.35s"><text x="170" y="172" font-size="72" font-weight="700" fill="url(#txt)" filter="url(#glow)">E</text></g>
+      <g class="rise" style="animation-delay:.45s"><text x="227" y="172" font-size="72" font-weight="700" fill="url(#txt)" filter="url(#glow)">A</text></g>
+      <g class="rise" style="animation-delay:.55s"><text x="284" y="172" font-size="72" font-weight="700" fill="url(#txt)" filter="url(#glow)">M</text></g>
+      <g class="rise" style="animation-delay:.65s"><text x="354" y="172" font-size="72" font-weight="700" fill="url(#txt)" filter="url(#glow)">T</text></g>
+
+      <text class="rise" style="animation-delay:1.0s" x="64" y="212" font-size="17" fill="#475569" letter-spacing=".5">Everything is possible. One commit at a time.</text>
+
+      <g class="rise" style="animation-delay:1.4s" font-size="13" font-weight="600">
+        <rect x="64" y="238" width="112" height="30" rx="15" fill="#ffffff" opacity="0.85"/>
+        <rect x="64" y="238" width="112" height="30" rx="15" fill="none" stroke="#bfdbfe"/>
+        <text x="120" y="258" fill="#1e40af" text-anchor="middle">Python</text>
+      </g>
+      <g class="rise" style="animation-delay:1.55s" font-size="13" font-weight="600">
+        <rect x="186" y="238" width="112" height="30" rx="15" fill="#ffffff" opacity="0.85"/>
+        <rect x="186" y="238" width="112" height="30" rx="15" fill="none" stroke="#bfdbfe"/>
+        <text x="242" y="258" fill="#1e40af" text-anchor="middle">LangChain</text>
+      </g>
+      <g class="rise" style="animation-delay:1.7s" font-size="13" font-weight="600">
+        <rect x="308" y="238" width="112" height="30" rx="15" fill="#ffffff" opacity="0.85"/>
+        <rect x="308" y="238" width="112" height="30" rx="15" fill="none" stroke="#bfdbfe"/>
+        <text x="364" y="258" fill="#1e40af" text-anchor="middle">LangGraph</text>
+      </g>
+      <g class="rise" style="animation-delay:1.85s" font-size="13" font-weight="600">
+        <rect x="430" y="238" width="112" height="30" rx="15" fill="#ffffff" opacity="0.85"/>
+        <rect x="430" y="238" width="112" height="30" rx="15" fill="none" stroke="#bfdbfe"/>
+        <text x="486" y="258" fill="#1e40af" text-anchor="middle">Agent</text>
+      </g>
+    </g>
+    <!-- 底部蓝色光带 -->
+    <path d="M0 320 C 320 262, 880 262, 1200 320 Z" fill="#2563eb" opacity="0.08"/>
+  </svg>
