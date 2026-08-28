@@ -82,9 +82,3 @@ Your contributions, as a Galaga-style space battle — updated daily by GitHub A
   <img src="assets/space-shooter.gif" width="100%" alt="space shooter">
 </p>
 
----
-
-<p align="center">
-  💼 <b>Recruiters:</b> if my agent projects interest you, reach me at <b>your@email.com</b> &nbsp;·&nbsp;
-  ⭐ A star means a lot to an indie dev
-</p>
