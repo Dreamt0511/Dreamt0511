@@ -44,8 +44,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dreamt0511&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0b3d91&text_color=1f2937&icon_color=2563eb&bg_color=00000000" alt="stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamt0511&layout=compact&hide_border=true&langs_count=8&title_color=0b3d91&text_color=1f2937&bg_color=00000000" alt="langs">
+  <img src="https://cdn.jsdelivr.net/gh/Dreamt0511/Dreamt0511@main/profile/stats.svg" alt="stats">
+  <img src="https://cdn.jsdelivr.net/gh/Dreamt0511/Dreamt0511@main/profile/top-langs.svg" alt="langs">
 </div>
 
 <div align="center">
