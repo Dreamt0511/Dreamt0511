@@ -24,19 +24,21 @@ jobs:
           strategy: "random"
           fps: "30"
 
-      # 更新 README 里图片的版本号，强制所有 CDN/浏览器重新拉取（真正的防缓存）
-      - name: Bump image version in README
+      # 把 README 里的 GIF 地址锁定到刚提交的 SHA
+      # jsDelivr 对 @main 分支的缓存不可靠，但对具体 SHA 是永久正确的，这样保证显示的一定是最新动画
+      - name: Pin README image to new commit
         run: |
-          V=$(date -u +%Y%m%d%H%M)
-          sed -i -E "s|(space-shooter\.gif\?v=)[0-9]+|\1${V}|" README.md
+          SHA=$(git rev-parse HEAD)          # gh-space-shooter 刚提交的 GIF 所在提交
+          echo "pinning to $SHA"
+          sed -i -E "s#(Dreamt0511/Dreamt0511@)[^/]+(/assets/space-shooter\.gif)#\1${SHA}\2#" README.md
+          git diff --stat
           if git diff --quiet README.md; then
-            echo "版本号无变化"
-          else
-            git config user.name "github-actions[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add README.md
-            git commit -m "chore: bump space-shooter cache version"
-            git pull --rebase origin main || true
-            git push || echo "push skipped"
+            echo "README 无需更新"
+            exit 0
           fi
-          curl -sf "https://purge.jsdelivr.net/gh/Dreamt0511/Dreamt0511@main/assets/space-shooter.gif" > /dev/null || true
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: pin space-shooter image to ${SHA:0:7}"
+          git pull --rebase origin main || true
+          git push || echo "push skipped"
