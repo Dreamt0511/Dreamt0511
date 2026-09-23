@@ -24,13 +24,19 @@ jobs:
           strategy: "random"
           fps: "30"
 
-      # 清掉 jsDelivr 缓存，保证 README 里立刻显示最新动画
-      - name: Purge jsDelivr cache
+      # 更新 README 里图片的版本号，强制所有 CDN/浏览器重新拉取（真正的防缓存）
+      - name: Bump image version in README
         run: |
-          for i in 1 2 3; do
-            sleep 10
-            if curl -sf "https://purge.jsdelivr.net/gh/Dreamt0511/Dreamt0511@main/assets/space-shooter.gif" > /dev/null; then
-              echo "purged"; break
-            fi
-            echo "retry $i..."
-          done
+          V=$(date -u +%Y%m%d%H%M)
+          sed -i -E "s|(space-shooter\.gif\?v=)[0-9]+|\1${V}|" README.md
+          if git diff --quiet README.md; then
+            echo "版本号无变化"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: bump space-shooter cache version"
+            git pull --rebase origin main || true
+            git push || echo "push skipped"
+          fi
+          curl -sf "https://purge.jsdelivr.net/gh/Dreamt0511/Dreamt0511@main/assets/space-shooter.gif" > /dev/null || true
