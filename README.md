@@ -13,7 +13,7 @@
   <span style="background:#f0f6ff;border:1px solid #c5d9f5;color:#1e40af;border-radius:999px;padding:4px 14px;font-size:13px;font-weight:600;"><img src="https://api.iconify.design/tabler/map-pin.svg?color=%231d4ed8" width="14" align="bottom" alt="">&nbsp;Shenzhen, China</span>&nbsp;
   <span style="background:#f0f6ff;border:1px solid #c5d9f5;color:#1e40af;border-radius:999px;padding:4px 14px;font-size:13px;font-weight:600;"><img src="https://api.iconify.design/tabler/target.svg?color=%231d4ed8" width="14" align="bottom" alt="">&nbsp;Focus · <b>AI Agent</b></span>&nbsp;
   <span style="background:#f0f6ff;border:1px solid #c5d9f5;color:#1e40af;border-radius:999px;padding:4px 14px;font-size:13px;font-weight:600;"><img src="https://api.iconify.design/tabler/school.svg?color=%231d4ed8" width="14" align="bottom" alt="">&nbsp;Class of <b>2027</b> · Open to Work</span>&nbsp;
-  <span style="background:#f0f6ff;border:1px solid #c5d9f5;color:#1e40af;border-radius:999px;padding:4px 14px;font-size:13px;font-weight:600;"><img src="https://api.iconify.design/tabler/flame.svg?color=%231d4ed8" width="14" align="bottom" alt="">&nbsp;<b>840+</b> Commits in 2026</span>
+  <span style="background:#f0f6ff;border:1px solid #c5d9f5;color:#1e40af;border-radius:999px;padding:4px 14px;font-size:13px;font-weight:600;"><img src="https://api.iconify.design/tabler/flame.svg?color=%231d4ed8" width="14" align="bottom" alt="">&nbsp;<b>800+</b> Contributions in 2026</span>
 </p>
 
 ---
@@ -22,7 +22,7 @@
 
 - <img src="https://api.iconify.design/tabler/robot.svg?color=%231d4ed8" width="18" align="top" alt="">&nbsp;&nbsp;I build **AI agents that actually get things done** — phone-automation agents, RAG assistants with long-term memory, and self-healing diagnosis systems.
 - <img src="https://api.iconify.design/tabler/sparkles.svg?color=%231d4ed8" width="18" align="top" alt="">&nbsp;&nbsp;Solo-built **6+ open-source projects** spanning AI agents, RAG systems, developer tools and 3D visualization.
-- <img src="https://api.iconify.design/tabler/git-fork.svg?color=%231d4ed8" width="18" align="top" alt="">&nbsp;&nbsp;Interning at **Nexight**, the team behind [Tutti](https://tutti.sh/en); active in agent-ecosystem OSS.
+- <img src="https://api.iconify.design/tabler/git-fork.svg?color=%231d4ed8" width="18" align="top" alt="">&nbsp;&nbsp;Interned at **Nexight** (the team behind [Tutti](https://tutti.sh/en)), shipping full-stack features for a multi-agent collaboration platform.
 - <img src="https://api.iconify.design/tabler/briefcase.svg?color=%231d4ed8" width="18" align="top" alt="">&nbsp;&nbsp;**Class of 2027**, seeking AI application / LLM engineering roles in the 2026 fall recruitment season.
 
 ## <img src="https://api.iconify.design/tabler/cpu.svg?color=%231d4ed8" width="20" align="bottom" alt="">&nbsp;Tech Stack
@@ -53,10 +53,10 @@
   &nbsp;&nbsp;<b style="font-size:16px;color:#0b3d91;">Full-Stack Development Intern</b>&nbsp;·&nbsp;
   <a href="https://tutti.sh/en" style="color:#1d4ed8;font-weight:600;">Nexight</a>
   <span style="color:#94a3b8;font-size:13px;">(makers of <a href="https://github.com/tutti-os/tutti">Tutti</a> · <a href="https://github.com/tutti-os/tutti">GitHub</a>)</span>
-  <span style="float:right;background:#eff6ff;border:1px solid #bfdbfe;color:#1e40af;border-radius:999px;padding:2px 12px;font-size:12.5px;font-weight:600;">2026.07 – Present</span>
-  <p style="color:#64748b;font-size:13.5px;margin:8px 0 0;">Building <b>Tutti</b> — the first multi-user, multi-agent real-time collaboration space. Coding agents (Claude Code, Codex, Cursor…) work together live in one shared cloud workspace, like Google Docs / Figma but for AI agents.</p>
+  <span style="float:right;background:#eff6ff;border:1px solid #bfdbfe;color:#1e40af;border-radius:999px;padding:2px 12px;font-size:12.5px;font-weight:600;">2026.07 – 2026.09</span>
+  <p style="color:#64748b;font-size:13.5px;margin:8px 0 0;"><b>Tutti</b> is the first multi-user, multi-agent real-time collaboration space. Coding agents (Claude Code, Codex, Cursor…) work together live in one shared cloud workspace, like Google Docs / Figma but for AI agents.</p>
   <p style="color:#334155;font-size:14px;margin:8px 0 0;">
-    <img src="https://api.iconify.design/tabler/check.svg?color=%231d4ed8" width="16" align="top" alt="">&nbsp;&nbsp;Working on full-stack development of Tutti's workspace products.
+    <img src="https://api.iconify.design/tabler/check.svg?color=%231d4ed8" width="16" align="top" alt="">&nbsp;&nbsp;Worked on full-stack development of Tutti's workspace products.
   </p>
   <p style="margin:12px 0 0;">
     <img src="https://img.shields.io/github/stars/tutti-os/tutti?style=flat-square&label=Repo%20Stars&color=1d4ed8" alt="stars">
