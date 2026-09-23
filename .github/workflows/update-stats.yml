@@ -37,3 +37,16 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile/ || true
           if git diff --cached --quiet; then echo "no changes"; else git commit -m "chore: update stats cards"; git push; fi
+
+      # 清掉 jsDelivr 缓存，保证 README 里立刻显示最新统计
+      - name: Purge jsDelivr cache
+        run: |
+          for f in profile/stats.svg profile/top-langs.svg; do
+            for i in 1 2 3; do
+              sleep 10
+              if curl -sf "https://purge.jsdelivr.net/gh/Dreamt0511/Dreamt0511@main/$f" > /dev/null; then
+                echo "purged $f"; break
+              fi
+              echo "retry $i for $f..."
+            done
+          done
