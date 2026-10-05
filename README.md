@@ -68,8 +68,8 @@
 ## <img src="https://api.iconify.design/tabler/chart-bar.svg?color=%231d4ed8" width="20" align="bottom" alt="">&nbsp;GitHub Stats
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Dreamt0511/Dreamt0511@9b2741f5433c62dc0d9f7a4230630841141e416c/profile/stats.svg" alt="stats">
-  <img src="https://cdn.jsdelivr.net/gh/Dreamt0511/Dreamt0511@9b2741f5433c62dc0d9f7a4230630841141e416c/profile/top-langs.svg" alt="langs">
+  <img src="https://cdn.jsdelivr.net/gh/Dreamt0511/Dreamt0511@c472d28d3d92801bfc9c80c6f2664e820fa74add/profile/stats.svg" alt="stats">
+  <img src="https://cdn.jsdelivr.net/gh/Dreamt0511/Dreamt0511@c472d28d3d92801bfc9c80c6f2664e820fa74add/profile/top-langs.svg" alt="langs">
 </div>
 
 <div align="center">
