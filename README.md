@@ -81,7 +81,7 @@
 Your contributions, as a Galaga-style space battle — updated daily by GitHub Actions.
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Dreamt0511/Dreamt0511@1e5163f2f81e1c663907ca657abee033b1e67245/assets/space-shooter.gif" width="100%" alt="space shooter">
+  <img src="https://cdn.jsdelivr.net/gh/Dreamt0511/Dreamt0511@b2583e4375780d59c4c5c84857c1cd8b8b159080/assets/space-shooter.gif" width="100%" alt="space shooter">
 </p>
 
 <p align="center">
