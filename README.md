@@ -49,6 +49,16 @@
 ## <img src="https://api.iconify.design/tabler/building-bank.svg?color=%231d4ed8" width="20" align="bottom" alt="">&nbsp;Experience
 
 <div style="border:1px solid #e3eaf5;border-radius:14px;padding:18px 22px;">
+  <img src="assets/lingjing-mark.png" width="30" align="top" alt="Lingjing AI">
+  &nbsp;&nbsp;<b style="font-size:16px;color:#0b3d91;">Algorithm Engineering Intern</b>&nbsp;·&nbsp;
+  <a href="https://h5.lingjingai.cn/" style="color:#1d4ed8;font-weight:600;">Lingjing AI (灵境万维)</a>
+  <span style="float:right;background:#eff6ff;border:1px solid #bfdbfe;color:#1e40af;border-radius:999px;padding:2px 12px;font-size:12.5px;font-weight:600;">2026.10 – Present</span>
+  <p style="color:#334155;font-size:14px;margin:8px 0 0;">
+    <img src="https://api.iconify.design/tabler/check.svg?color=%231d4ed8" width="16" align="top" alt="">&nbsp;&nbsp;Maintain and improve the production pipeline for AI-assisted short-drama adaptation, diagnosing job failures and fixing bugs across rendering and post-production.
+  </p>
+</div>
+
+<div style="border:1px solid #e3eaf5;border-radius:14px;padding:18px 22px;">
   <img src="assets/tutti-mark.svg" width="30" align="top" alt="Nexight">
   &nbsp;&nbsp;<b style="font-size:16px;color:#0b3d91;">Full-Stack Development Intern</b>&nbsp;·&nbsp;
   <a href="https://tutti.sh/en" style="color:#1d4ed8;font-weight:600;">Nexight</a>
