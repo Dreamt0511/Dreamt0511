@@ -13,17 +13,17 @@
   <span style="background:#f0f6ff;border:1px solid #c5d9f5;color:#1e40af;border-radius:999px;padding:4px 14px;font-size:13px;font-weight:600;"><img src="https://api.iconify.design/tabler/map-pin.svg?color=%231d4ed8" width="14" align="bottom" alt="">&nbsp;Shenzhen, China</span>&nbsp;
   <span style="background:#f0f6ff;border:1px solid #c5d9f5;color:#1e40af;border-radius:999px;padding:4px 14px;font-size:13px;font-weight:600;"><img src="https://api.iconify.design/tabler/target.svg?color=%231d4ed8" width="14" align="bottom" alt="">&nbsp;Focus · <b>AI Agent</b></span>&nbsp;
   <span style="background:#f0f6ff;border:1px solid #c5d9f5;color:#1e40af;border-radius:999px;padding:4px 14px;font-size:13px;font-weight:600;"><img src="https://api.iconify.design/tabler/school.svg?color=%231d4ed8" width="14" align="bottom" alt="">&nbsp;Class of <b>2027</b> · Open to Work</span>&nbsp;
-  <span style="background:#f0f6ff;border:1px solid #c5d9f5;color:#1e40af;border-radius:999px;padding:4px 14px;font-size:13px;font-weight:600;"><img src="https://api.iconify.design/tabler/flame.svg?color=%231d4ed8" width="14" align="bottom" alt="">&nbsp;<b>800+</b> Contributions in 2026</span>
+  <span style="background:#f0f6ff;border:1px solid #c5d9f5;color:#1e40af;border-radius:999px;padding:4px 14px;font-size:13px;font-weight:600;"><img src="https://api.iconify.design/tabler/flame.svg?color=%231d4ed8" width="14" align="bottom" alt="">&nbsp;<b>1,200+</b> Contributions in 2026</span>
 </p>
 
 ---
 
 ## <img src="https://api.iconify.design/tabler/compass.svg?color=%231d4ed8" width="20" align="bottom" alt="">&nbsp;About Me
 
-- <img src="https://api.iconify.design/tabler/robot.svg?color=%231d4ed8" width="18" align="top" alt="">&nbsp;&nbsp;I build **AI agents that actually get things done** — phone-automation agents, RAG assistants with long-term memory, and self-healing diagnosis systems.
+- <img src="https://api.iconify.design/tabler/robot.svg?color=%231d4ed8" width="18" align="top" alt="">&nbsp;&nbsp;I work on **AI-assisted short-drama adaptation** at Lingjing AI, maintaining the production pipeline and resolving issues in rendering and post-production.
 - <img src="https://api.iconify.design/tabler/sparkles.svg?color=%231d4ed8" width="18" align="top" alt="">&nbsp;&nbsp;Solo-built **6+ open-source projects** spanning AI agents, RAG systems, developer tools and 3D visualization.
 - <img src="https://api.iconify.design/tabler/git-fork.svg?color=%231d4ed8" width="18" align="top" alt="">&nbsp;&nbsp;Interned at **Nexight** (the team behind [Tutti](https://tutti.sh/en)), shipping full-stack features for a multi-agent collaboration platform.
-- <img src="https://api.iconify.design/tabler/briefcase.svg?color=%231d4ed8" width="18" align="top" alt="">&nbsp;&nbsp;**Class of 2027**, seeking AI application / LLM engineering roles in the 2026 fall recruitment season.
+- <img src="https://api.iconify.design/tabler/briefcase.svg?color=%231d4ed8" width="18" align="top" alt="">&nbsp;&nbsp;**Class of 2027**, open to AI application and LLM engineering roles.
 
 ## <img src="https://api.iconify.design/tabler/cpu.svg?color=%231d4ed8" width="20" align="bottom" alt="">&nbsp;Tech Stack
 
